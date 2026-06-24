@@ -97,12 +97,12 @@
 #         print("*",end=" ")
 #     print() 
 
-num =5 
+# num =5 
 
-for i in range(1,6):
-    for j in range(i ):
-        print("num" ,end=" ")
-    print()
+# for i in range(1,6):
+#     for j in range(i ):
+#         print("num" ,end=" ")
+#     print()
 # for i in range(1,6):
 #     for j in range(1,6):
 #         if i==1 or i==5 or j==1 or j==5:
@@ -110,3 +110,16 @@ for i in range(1,6):
 #         else:
 #             print(" ",end=" ")
 #     print()
+# function
+# a="hello"
+# b="student!" 
+# print(a+", "+b)
+
+# def my_name( name):
+#     print(name)
+# my_name("anshu")
+def sumOFTwo(a,b):
+    sum = a+b
+    print(sum)
+
+    sumOFTwo(10,20)
