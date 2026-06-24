@@ -124,3 +124,4 @@ def sumOFTwo(a,b):
 
     sumOFTwo(10,20)
     print("Hello GitHub")
+    print("My second GitHub update")
