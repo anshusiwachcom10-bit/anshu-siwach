@@ -111,17 +111,27 @@
 #             print(" ",end=" ")
 #     print()
 # function
-# a="hello"
-# b="student!" 
-# print(a+", "+b)
+# def greet(name):
+#     print("Hello",name)
 
-# def my_name( name):
-#     print(name)
-# my_name("anshu")
-def sumOFTwo(a,b):
-    sum = a+b
-    print(sum)
+# greet("student!")
 
-    sumOFTwo(10,20)
-    print("Hello GitHub")
-    print("My second GitHub update")
+# def greet(my_name):
+#     print(my_name)
+
+# greet("anshu")
+
+# def sumOFTwo(a,b):  
+#      total = a+b
+#      print(total)
+
+# sumOFTwo(10,20)
+
+# num=int(input("enter a num:"))
+
+# if num % 2 ==0:
+#      print("even num")
+# else :
+#      print ("odd num")    
+
+print("My second GitHub update")
