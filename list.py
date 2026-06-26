@@ -110,6 +110,7 @@
 #         else:
 #             print(" ",end=" ")
 #     print()
+
 # function
 # def greet(name):
 #     print("Hello",name)
@@ -133,5 +134,64 @@
 #      print("even num")
 # else :
 #      print ("odd num")    
+ 
+# def square(num):
+#     print(num * num)
 
-print("My second GitHub update")
+# square(10)
+
+# indexing
+# num=(1,2,3,4,5,6,7,8,9)
+# print(num[5])
+
+# name="anshu"
+# print(name[3])
+
+# slice
+# name="anshu siwach"
+# print(name[1:13:2])
+# print(name[ :])
+# print(name[-12])
+# print(name[:-1])
+# print(name[::-1])
+# print(name[:1:12])
+# print(name[1:12:2])
+# print(name[-1:12])
+# print(name[-1:])
+
+# slicing practice question
+# s="programming"
+# print(s[0:5])
+
+# num="10,20,30,40,50,60"
+# print(num[0:8])
+
+# string="python"
+# print(string[::-1])
+
+# text="artifical intelligence"
+# print(text[0:10])
+
+# colors=["red","blue","green","yellow","black"]
+# print(colors[3:5])
+
+# num=[1,2,3,4,5,6,7,8,9,10]
+# print(num[::2])
+
+# s="datascience"
+# print(s[1::2])
+
+# marks=45,67,89,34,56,78
+# print(marks[1:5])
+
+# sentence="machin learing with python"
+# print(sentence[7:16])
+
+# num=[100,200,300,400,500,600]
+# print(num[1:5])
+
+# text="abcdefghijklmnopqrstuvwxyz"
+# print(text[20:4:-1])
+
+num=[5,10,15,20,25,30,35,40]
+print(num[])
