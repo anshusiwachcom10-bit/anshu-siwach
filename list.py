@@ -193,5 +193,3 @@
 # text="abcdefghijklmnopqrstuvwxyz"
 # print(text[20:4:-1])
 
-num=[5,10,15,20,25,30,35,40]
-print(num[])
